@@ -1,0 +1,39 @@
+    .widget_name {
+        background-color: #33cc99;
+        font-family:  "Century Gothic", Papyrus, fantasy, serif;
+        padding: 0 0 20px 0;
+        text-align: center;
+        border-radius: 5px;
+        
+    }
+    .widget-area .widget_name .widget-title,
+    .widget_name .widget-title {
+        color: #636363;
+        font-family: "Century Gothic", Papyrus, fantasy, serif;
+        font-size: 12px; 
+        font-weight: normal;
+        line-height: 16px;
+        margin: 0;
+        padding: 15px;
+        text-transform: none;
+         
+    }
+    .widget_name .widget-title span {
+        display: block;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 22px;
+        text-transform: uppercase;
+    }
+    .widget-area .widget_name p,
+    .widget_name p {
+        background-color: #66ccff;
+        color: #444;
+        font-family: "lobster", "Century Gothic", Papyrus, fantasy, serif;
+        font-size: 24px;
+    	font-weight: bold;
+        line-height: 30px;
+        margin: 0;
+        padding: 10px 5px;
+    }
+  
